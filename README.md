@@ -1,11 +1,10 @@
 # Hi, I'm Samuel 
 
-I'm an Informatics Engineering student and an aspiring AI Engineer
+I'm an Informatics Engineering student and an aspiring AI Engineer. I prefer practical over theoretical.
 
-Currently, I am building AI-powered applications such as CNN-based disease detection systems, Retrieval-Augmented Generation (RAG) chatbots, and intelligent information retrieval systems.
----
+Currently building AI-powered applications such as CNN-based disease detection systems for my final thesis.
 
-## 🚀 Current Focus
+## Current Focus
 
 - Machine Learning
 - Deep Learning
@@ -16,11 +15,9 @@ Currently, I am building AI-powered applications such as CNN-based disease detec
 - Vector Databases
 - AI Backend Integration
 
-## 🎯 Career Goal
+## Career Goal
 
 I am currently focused on becoming an AI Engineer, especially in the areas of Machine Learning, Deep Learning, Computer Vision, RAG, and LLM-based applications.
 
-## 📫 Connect with Me
+📫 feel free to connect with me [email](mailto:samuelpardosi1@gmail.com) or [LinkedIn](https://www.linkedin.com/in/samuel-pardamean-pardosi-4aa340392/)
 
-- LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/samuel-pardamean-pardosi-4aa340392/)
-- Email: samuelpardosi1@gmail.com
