@@ -2,7 +2,7 @@
 
 I'm an Informatics Engineering student and an aspiring AI Engineer. I prefer practical over theoretical.
 
-Currently building AI-powered applications such as CNN-based disease detection systems for my final thesis.
+Currently, I'm working on a CNN-based chili plant disease detection system for my final thesis, and exploring RAG, LLMs, and AI backend integration.
 
 ## Current Focus
 
